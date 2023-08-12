@@ -1,0 +1,186 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*  */
+
+.nav-item a {
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-right: 15px;
+    font-family: 'Righteous', cursive;
+    color: black;
+
+}
+#nav {
+    background-color: rgb(20, 219, 20);
+}
+.nav-item  a:hover {
+    color: white;
+}
+.navbar-brand  {
+    font-family: 'Righteous', cursive;
+   
+}
+.navbar-brand:hover {
+    color: white;
+}
+.search {
+     background-color: rgb(20, 219, 20);
+     color: black;
+}
+.search1 {
+    border: 2px solid rgb(20, 219, 20);
+}
+.bi-bag-check {
+    font-size: 30px;
+    cursor: pointer;
+    color: black;
+
+}
+.bi-bag-check:hover{
+    color: white;
+}
+
+
+.btnone {
+    background-color: rgb(20, 219, 20);
+    color: white;
+    border: none;
+    border-radius: 50px;
+}
+.btntwo {
+    border: 1px solid rgb(20, 219, 20);
+    color: rgb(20, 219, 20);
+    border-radius: 50px;
+}
+.btnone {
+    background-color: rgb(20, 219, 20);
+
+}
+.btnone:hover {
+    background-color: rgb(20, 219, 20)
+}
+.btntwo:hover {
+    background-color: rgb(20, 219, 20);
+    color: whitesmoke;
+}
+.display-2 {
+    font-family: 'Righteous', cursive;
+}
+.display-4 {
+    font-family: 'Righteous', cursive;
+}
+.lead {
+    font-family: 'Righteous', cursive;
+}
+p {
+    font-family: 'Righteous', cursive;
+
+}
+h2 {
+    font-family: 'Righteous', cursive;
+
+}
+h4 {
+    font-family: 'Righteous', cursive;
+
+}
+h1 {
+    font-family: 'Righteous', cursive;
+
+}
+.h1 {
+    margin-right: 150px;
+
+}
+.line {
+    height: 6px;
+    width: 30%;
+    background-color: rgb(20, 219, 20);
+}
+.welcome {
+    background-color: rgb(20, 219, 20);
+}
+.line2 {
+    height: 6px;
+    width: 95%;
+    background-color: white;
+}
+.welcome .card {
+    cursor: pointer;
+    border-radius: 0;
+}
+.welcome i {
+    font-size: 45px;
+    color: rgb(20, 219, 20);
+}
+.line3 {
+    height: 6px;
+    width: 95%;
+    background-color: rgb(20, 219, 20);
+}
+.line5 {
+    height: 6px;
+    width: 70%;
+    background-color: rgb(20, 219, 20);
+}
+.product .card-body {
+    cursor: pointer;
+}
+.new .card-body {
+    cursor: pointer;
+}
+.discount {
+    background-color: rgb(20, 219, 20);
+    color: white;
+}
+.service i {
+    font-size: 45px;
+}
+.service .card {
+    cursor: pointer;
+    border-radius: 0;
+}
+.service .card:hover {
+    background-color: rgb(20, 219, 20);
+    color: white;
+}
+.service .card i:hover{
+    color: white;
+}
+.bi-star-fill {
+color: rgb(20, 219, 20);
+}
+.bi-star-half {
+    color: rgb(20, 219, 20);
+}
+.bi-star {
+    color: rgb(20, 219, 20);
+}
+
+.line4 {
+    height: 6px;
+    width: 50%;
+    background-color: white;
+}
+.form-control {
+    width: 50%;
+
+
+}
+.btnfour {
+    background-color: white;
+}
+.btnfour:hover {
+    background-color: rgb(185, 185,185);
+}
+.btn {
+    font-family: 'Righteous', cursive;
+
+}
+label {
+    font-family: 'Righteous', cursive;
+
+}
